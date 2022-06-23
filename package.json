@@ -1,0 +1,22 @@
+{
+  "name": "business-portfolio",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/HTML-red.svg) ![](https://img.shields.io/badge/CSS-blue.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddielo26/Business-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddielo26/Business-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Eddielo26/Business-Portfolio#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
